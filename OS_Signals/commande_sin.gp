@@ -1,0 +1,1 @@
+plot "sinus.txt" using 1:2 smooth csplines

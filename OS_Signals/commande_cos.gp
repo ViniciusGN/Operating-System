@@ -1,0 +1,1 @@
+plot "cosinus.txt" using 1:2 smooth csplines
