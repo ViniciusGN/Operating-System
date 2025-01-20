@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "cstdlib": "c",
+        "iplot.h": "c",
+        "stdlib.h": "c",
+        "fcntl.h": "c",
+        "stdio.h": "c",
+        "unistd.h": "c",
+        "fsieve.h": "c",
+        "type_traits": "c",
+        "string.h": "c",
+        "math.h": "c"
+    }
+}
